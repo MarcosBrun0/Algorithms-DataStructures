@@ -1,4 +1,4 @@
-class Solution:
+class Solution:A
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
         Do not return anything, modify nums1 in-place instead.
@@ -18,4 +18,4 @@ class Solution:
         for b in range(m+n):
             nums1[b] = vetor[b]
 
-#there`s a lot to improve but for the first leetcode that I solved it`s okay
+#there` a lot to improve but for the first leetcode that I solved it`s okay

@@ -1,5 +1,18 @@
 # Algorithms and Data Structures
 
+## 🗂 Project Structure
+
+````
+.
+└── Problems/
+    └── Problem/
+        ├── Languages --> (C#,Python,Java)/
+        │   └── file  --> (e.g QuickSort.py) 
+        └── exe.md    --> (information about the problem)
+
+````
+
+
 ## 📌 Overview
 
 This repository is dedicated to implementing various **Data Structures and Algorithms**. The goal is to provide a resource for learning, practicing, and improving problem-solving skills related to data structures.
